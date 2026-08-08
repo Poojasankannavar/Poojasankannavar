@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pooja Sankannavar</h1>
-<h3 align="center">Full-Stack Web Developer and AI Engineering enthusiast with hands-on experience designing, developing, testing, and deploying scalable, responsive, user-centric web applications using Python, Java, JavaScript, and SQL. Strong foundation in secure coding, system design, and performance optimization, with growing expertise in Artificial Intelligence and Machine Learning. Effective collaborator who delivers high-quality software across cross-functional teams.</h3>
+<h3 align="center">Full-Stack Web Developer and AI Engineering enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poojasankannavar&label=Profile%20views&color=0e75b6&style=flat" alt="poojasankannavar" /> </p>
 
