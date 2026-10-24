@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm Pooja Sankannavar 👋</h1>
 
 <p align="center">
-  <strong>Aspiring Full-Stack Developer | MCA Student | Software Development &amp; AI Enthusiast</strong>
+  <strong>Full-Stack Developer | MCA Student | Software Development &amp; AI Engineer Enthusiast</strong>
 </p>
 
 <p align="center">
