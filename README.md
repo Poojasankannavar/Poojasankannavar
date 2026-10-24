@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Pooja Sankannavar 👋</h1>
 
-<h3 align="center">Full-Stack Developer | MCA Student | Software Development & AI Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | MCA Student | Software Development & AI|ML Enthusiast</h3>
 
 <p align="center">
   Passionate about building practical web applications and exploring innovative technologies.
@@ -76,50 +76,6 @@ I enjoy developing web applications, working with databases, solving programming
 - Generative AI
 - Prompt Engineering
 
-## 🚀 Projects
-
-### 1. Hotel Management System
-
-A web-based application developed with Django to support common hotel management operations.
-
-**Key Features**
-- User registration and login
-- Room browsing and booking
-- Food ordering functionality
-- Administrative management of rooms, staff, and stock
-
-**Technologies:** Python, Django, SQLite, HTML, CSS, Bootstrap
-
-[View my GitHub repositories](https://github.com/Poojasankannavar?tab=repositories)
-
-### 2. AI-Powered Skincare E-Commerce Application
-
-A MERN-stack application combining skincare shopping with AI-powered recommendations and chatbot functionality.
-
-**Key Features**
-- Skincare product browsing
-- AI-powered skincare recommendations
-- Chatbot integration
-- Full-stack web application functionality
-
-**Technologies:** React, Node.js, Express.js, MongoDB, JavaScript, Gemini API
-
-[View my GitHub repositories](https://github.com/Poojasankannavar?tab=repositories)
-
-### 3. Brain Tumor Classification Using Machine Learning
-
-A machine learning project that classifies brain MRI images into four categories using image feature extraction and an SVM classifier.
-
-**Key Features**
-- MRI image classification
-- Image feature extraction using HOG, LBP, and GLCM
-- Support Vector Machine (SVM) classification
-- Flask-based application
-
-**Technologies:** Python, Flask, Machine Learning, SVM, HOG, LBP, GLCM
-
-[Explore my GitHub profile](https://github.com/Poojasankannavar)
-
 ## 🎓 Education
 
 **Master of Computer Applications (MCA)**  
@@ -130,15 +86,6 @@ Currently pursuing | 2025–2027
 KLE GH College, Haveri, Karnataka, India  
 2022–2025
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Poojasankannavar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poojasankannavar&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-</p>
 
 ## 🤝 Connect With Me
 
