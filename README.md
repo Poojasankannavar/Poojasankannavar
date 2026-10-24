@@ -1,36 +1,36 @@
- <!--
-  Profile README for Pooja Sankannavar
--->
+ <!-- GitHub Profile README - Pooja Sankannavar -->
 
 <h1 align="center">Hi, I'm Pooja Sankannavar 👋</h1>
 
+<h3 align="center">Full-Stack Developer | MCA Student | Software Development & AI Enthusiast</h3>
+
 <p align="center">
-  <strong>Full-Stack Developer | MCA Student | Software Development &amp; AI Enthusiast</strong>
+  Passionate about building practical web applications and exploring innovative technologies.
 </p>
 
 <p align="center">
-  Building practical web applications and developing my skills in frontend, backend, databases, and AI.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pooja-sankannavar-8751a0318/">LinkedIn</a> •
-  <a href="https://github.com/Poojasankannavar">GitHub</a> •
-  <a href="https://github.com/Poojasankannavar?tab=repositories">Projects</a>
+  <a href="https://www.linkedin.com/in/pooja-sankannavar-8751a0318/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Poojasankannavar">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm Pooja Sankannavar, currently pursuing a **Master of Computer Applications (MCA) at Kristu Jayanti University, Bengaluru, Karnataka, India**.
+I'm Pooja Sankannavar, an MCA student at Kristu Jayanti University, Bengaluru, Karnataka, India, aspiring to build a career in Full-Stack Development and Software Engineering.
 
-I'm passionate about **Full-Stack Development, Software Engineering, and Artificial Intelligence**. I enjoy building user-friendly web applications, solving programming problems, and learning technologies that help me develop practical and reliable software solutions.
+I enjoy developing web applications, working with databases, solving programming problems, and exploring Artificial Intelligence. Through hands-on projects, I'm continuously improving my technical skills and learning to build reliable, user-friendly software solutions.
 
-- 🎓 Pursuing MCA at Kristu Jayanti University, Bengaluru.
-- 💻 Interested in full-stack web development and software engineering.
-- 🌱 Learning and improving my frontend, backend, and database skills.
+- 🎓 Currently pursuing a Master of Computer Applications (MCA).
+- 💻 Interested in Full-Stack Development and Software Engineering.
+- 🌐 Enjoy developing frontend interfaces and backend functionality.
+- 🗄️ Interested in database design and application development.
 - 🤖 Exploring Artificial Intelligence, Machine Learning, and Generative AI.
-- 🎯 Career goal: To become a skilled Full-Stack Developer and contribute to real-world software projects.
+- 🚀 Focused on continuous learning and building real-world projects.
 
 ## 🛠️ Technical Skills
 
@@ -71,18 +71,18 @@ I'm passionate about **Full-Stack Development, Software Engineering, and Artific
 
 ### AI & Emerging Technologies
 
-- Artificial Intelligence (AI)
-- Machine Learning (ML)
+- Artificial Intelligence
+- Machine Learning
 - Generative AI
 - Prompt Engineering
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 1. Hotel Management System
 
-A Django-based web application designed to support hotel operations through a centralized management system.
+A web-based application developed with Django to support common hotel management operations.
 
-**Key features:**
+**Key Features**
 - User registration and login
 - Room browsing and booking
 - Food ordering functionality
@@ -90,63 +90,75 @@ A Django-based web application designed to support hotel operations through a ce
 
 **Technologies:** Python, Django, SQLite, HTML, CSS, Bootstrap
 
-🔗 [Explore my GitHub repositories](https://github.com/Poojasankannavar?tab=repositories)
+[View my GitHub repositories](https://github.com/Poojasankannavar?tab=repositories)
 
 ### 2. AI-Powered Skincare E-Commerce Application
 
-A MERN-stack web application combining online skincare shopping with AI-powered recommendations and chatbot functionality.
+A MERN-stack application combining skincare shopping with AI-powered recommendations and chatbot functionality.
+
+**Key Features**
+- Skincare product browsing
+- AI-powered skincare recommendations
+- Chatbot integration
+- Full-stack web application functionality
 
 **Technologies:** React, Node.js, Express.js, MongoDB, JavaScript, Gemini API
 
-🔗 [Explore my GitHub repositories](https://github.com/Poojasankannavar?tab=repositories)
+[View my GitHub repositories](https://github.com/Poojasankannavar?tab=repositories)
 
 ### 3. Brain Tumor Classification Using Machine Learning
 
 A machine learning project that classifies brain MRI images into four categories using image feature extraction and an SVM classifier.
 
+**Key Features**
+- MRI image classification
+- Image feature extraction using HOG, LBP, and GLCM
+- Support Vector Machine (SVM) classification
+- Flask-based application
+
 **Technologies:** Python, Flask, Machine Learning, SVM, HOG, LBP, GLCM
 
-🔗 [GitHub Profile](https://github.com/Poojasankannavar)
+[Explore my GitHub profile](https://github.com/Poojasankannavar)
 
 ## 🎓 Education
 
 **Master of Computer Applications (MCA)**  
 Kristu Jayanti University, Bengaluru, Karnataka, India  
-Currently pursuing
+Currently pursuing | 2025–2027
 
 **Bachelor of Computer Applications (BCA)**  
 KLE GH College, Haveri, Karnataka, India  
 2022–2025
 
-## 📊 GitHub Statistics
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Poojasankannavar&show_icons=true&theme=tokyonight&hide_border=true" alt="Pooja's GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Poojasankannavar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poojasankannavar&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Programming Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poojasankannavar&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </p>
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
-I'm always interested in learning, collaborating on projects, and exploring opportunities in software development.
+I'm interested in connecting with developers, learning from the tech community, collaborating on projects, and exploring opportunities in software development.
 
 <p>
   <a href="https://www.linkedin.com/in/pooja-sankannavar-8751a0318/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Poojasankannavar">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <strong>“Learning by building, improving through practice, and creating technology that makes a difference.”</strong>
+  <strong>Learning continuously. Building consistently. Growing through technology. 🚀</strong>
 </p>
 
 <p align="center">
-  Thanks for visiting my profile! 😊
+  Thanks for visiting my GitHub profile! 😊
 </p>
