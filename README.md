@@ -1,77 +1,152 @@
-<!--
+ <!--
   Profile README for Pooja Sankannavar
-  Keep project details aligned with the public repositories as they are updated.
 -->
 
 <h1 align="center">Hi, I'm Pooja Sankannavar 👋</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer | MCA Student | Software Development &amp; AI Engineer Enthusiast</strong>
+  <strong>Full-Stack Developer | MCA Student | Software Development &amp; AI Enthusiast</strong>
 </p>
 
 <p align="center">
-  Building practical web applications and growing my skills across frontend, backend, and databases.
+  Building practical web applications and developing my skills in frontend, backend, databases, and AI.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pooja-sankannavar-8751a0318/">LinkedIn</a> ·
-  <a href="https://github.com/Poojasankannavar">GitHub</a>
+  <a href="https://www.linkedin.com/in/pooja-sankannavar-8751a0318/">LinkedIn</a> •
+  <a href="https://github.com/Poojasankannavar">GitHub</a> •
+  <a href="https://github.com/Poojasankannavar?tab=repositories">Projects</a>
 </p>
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
-I’m Pooja Sankannavar, currently pursuing an MCA at Kristu Jayanti University in Bengaluru, Karnataka, India. I’m working toward a career in full-stack development and enjoy building user-friendly applications that solve practical problems.
+I'm Pooja Sankannavar, currently pursuing a **Master of Computer Applications (MCA) at Kristu Jayanti University, Bengaluru, Karnataka, India**.
 
-My interests include web application development, backend functionality, database design, programming problem-solving, and exploring AI and machine learning. I’m continuing to learn modern development tools through hands-on projects.
+I'm passionate about **Full-Stack Development, Software Engineering, and Artificial Intelligence**. I enjoy building user-friendly web applications, solving programming problems, and learning technologies that help me develop practical and reliable software solutions.
 
-## Technical Skills
+- 🎓 Pursuing MCA at Kristu Jayanti University, Bengaluru.
+- 💻 Interested in full-stack web development and software engineering.
+- 🌱 Learning and improving my frontend, backend, and database skills.
+- 🤖 Exploring Artificial Intelligence, Machine Learning, and Generative AI.
+- 🎯 Career goal: To become a skilled Full-Stack Developer and contribute to real-world software projects.
 
-**Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+## 🛠️ Technical Skills
 
-**Backend**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+### Frontend Development
 
-**Databases**  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+</p>
 
-**Programming & Tools**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+### Backend Development
 
-**AI & Learning Interests**  
-Artificial Intelligence · Machine Learning · Generative AI · Prompt Engineering
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+</p>
 
-## Featured Project
+### Databases
 
-### Hotel Management System
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
 
-A Django web application for common hotel operations. The existing profile README describes guest registration and login, room browsing and booking, food ordering, and administrative tools for rooms, staff, and stock.
+### Programming Languages & Tools
 
-**Stack:** Python · Django · SQLite · HTML · CSS · Bootstrap  
-**Repository:** Browse my [public repositories](https://github.com/Poojasankannavar?tab=repositories) to locate the project.
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
 
-## Education
+### AI & Emerging Technologies
 
-**Master of Computer Applications (MCA)** — Kristu Jayanti University, Bengaluru, Karnataka, India *(currently pursuing)*
+- Artificial Intelligence (AI)
+- Machine Learning (ML)
+- Generative AI
+- Prompt Engineering
 
-## Connect
+## 🚀 Featured Projects
 
-- [LinkedIn](https://www.linkedin.com/in/pooja-sankannavar-8751a0318/)
-- [GitHub profile and repositories](https://github.com/Poojasankannavar)
+### 1. Hotel Management System
+
+A Django-based web application designed to support hotel operations through a centralized management system.
+
+**Key features:**
+- User registration and login
+- Room browsing and booking
+- Food ordering functionality
+- Administrative management of rooms, staff, and stock
+
+**Technologies:** Python, Django, SQLite, HTML, CSS, Bootstrap
+
+🔗 [Explore my GitHub repositories](https://github.com/Poojasankannavar?tab=repositories)
+
+### 2. AI-Powered Skincare E-Commerce Application
+
+A MERN-stack web application combining online skincare shopping with AI-powered recommendations and chatbot functionality.
+
+**Technologies:** React, Node.js, Express.js, MongoDB, JavaScript, Gemini API
+
+🔗 [Explore my GitHub repositories](https://github.com/Poojasankannavar?tab=repositories)
+
+### 3. Brain Tumor Classification Using Machine Learning
+
+A machine learning project that classifies brain MRI images into four categories using image feature extraction and an SVM classifier.
+
+**Technologies:** Python, Flask, Machine Learning, SVM, HOG, LBP, GLCM
+
+🔗 [GitHub Profile](https://github.com/Poojasankannavar)
+
+## 🎓 Education
+
+**Master of Computer Applications (MCA)**  
+Kristu Jayanti University, Bengaluru, Karnataka, India  
+Currently pursuing
+
+**Bachelor of Computer Applications (BCA)**  
+KLE GH College, Haveri, Karnataka, India  
+2022–2025
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Poojasankannavar&show_icons=true&theme=tokyonight&hide_border=true" alt="Pooja's GitHub Statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poojasankannavar&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Programming Languages" />
+</p>
+
+## 🤝 Let's Connect
+
+I'm always interested in learning, collaborating on projects, and exploring opportunities in software development.
+
+<p>
+  <a href="https://www.linkedin.com/in/pooja-sankannavar-8751a0318/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+  <a href="https://github.com/Poojasankannavar">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+  </a>
+</p>
 
 ---
 
-I’m focused on learning by building and on creating reliable, useful software. Thanks for stopping by.
+<p align="center">
+  <strong>“Learning by building, improving through practice, and creating technology that makes a difference.”</strong>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! 😊
+</p>
